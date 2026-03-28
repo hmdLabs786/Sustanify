@@ -23,11 +23,11 @@ A Flutter-based mobile application designed to inspire and guide users toward su
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SUSTANIFY.git
+   git clone https://github.com/your-username/Sustanify.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd SUSTANIFY
+   cd Sustanify
    ```
 3. Install dependencies:
    ```bash
